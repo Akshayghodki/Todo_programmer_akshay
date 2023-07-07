@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todo_programmer_akshay/static/css/main.beef6503.css",
+    "main.js": "/Todo_programmer_akshay/static/js/main.a6d131d3.js",
+    "static/js/787.b9329098.chunk.js": "/Todo_programmer_akshay/static/js/787.b9329098.chunk.js",
+    "index.html": "/Todo_programmer_akshay/index.html",
+    "main.beef6503.css.map": "/Todo_programmer_akshay/static/css/main.beef6503.css.map",
+    "main.a6d131d3.js.map": "/Todo_programmer_akshay/static/js/main.a6d131d3.js.map",
+    "787.b9329098.chunk.js.map": "/Todo_programmer_akshay/static/js/787.b9329098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef6503.css",
+    "static/js/main.a6d131d3.js"
+  ]
+}
